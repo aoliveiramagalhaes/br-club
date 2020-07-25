@@ -1,8 +1,12 @@
 ## Details
 
 In this project, I built my own bar page that will dynamically respond as users adjust the size of their screen.
+<<<<<<< HEAD
 
 br-club ​is a responsive design project by [codeacademy](https://www.codecademy.com/).
+=======
+br-club is a responsive design project by [codeacademy](https://www.codecademy.com/).
+>>>>>>> 2ede9f306ac0316eb4fc29042775df51b61574bf
 
 #### Languages
  * HTML
