@@ -3,6 +3,10 @@ html {
     font-family: 'Courier New', Courier, monospace;
 }
 
+.nav-link {
+    font-size: 1.2rem;
+}
+
 #banner {
     background-image: url("./images/drinks.jpg");
     background-size: cover;
@@ -39,7 +43,7 @@ html {
 
   .photos img {
     width: 30%;
-    margin: 1.6em;
+    margin: 1.5%;
   }
 
   .testimonial {
@@ -87,6 +91,14 @@ html {
   }
 
   @media only screen and (max-width: 1048px) {
+    .photos img {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  @media only screen and (min-width: 1049px) {
     .photos img {
       width: 100%;
       margin-left: auto;
