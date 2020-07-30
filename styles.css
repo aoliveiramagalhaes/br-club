@@ -8,7 +8,7 @@ html {
 }
 
 #banner {
-    background-image: url("./images/drinks.jpg");
+    background-image: url("./images/drink-banner.jpg");
     background-size: cover;
     background-position: center;
     height: 45rem;
@@ -103,7 +103,7 @@ html {
 
 @media only screen and (max-width: 640px) {
     .title h1 {
-        margin-top: 2rem;
+        margin-top: 3.5rem;
     }
     .title {
         max-height: 200px;
@@ -126,19 +126,25 @@ html {
         .testimonial {
             padding-top: 1.5rem;
         }
+        .welcome h2 {
+            font-size: 2rem;
+        }
     }
     @media only screen and (max-width: 420px) {
         .testimonial h2 {
             font-size: 2rem;
         }
         .title {
-            font-size: 3rem;
+            font-size: 3.5rem;
         }
         .photos img {
             width: 100%;
         }
         .testimonial {
             padding-top: 1.5rem;
+        }
+        .welcome h2 {
+            font-size: 2rem;
         }
     }
 }
