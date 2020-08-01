@@ -1,4 +1,4 @@
-## Details
+## BR Club
 
 In this project, I've built my own bar page that will dynamically respond as users adjust the size of their screen.
 
